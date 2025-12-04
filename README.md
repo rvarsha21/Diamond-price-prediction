@@ -106,5 +106,5 @@ Includes the following features:
 
 | Resource                          | Link                           |
 | --------------------------------- | ------------------------------ |
-| **Project Presentation**          | *[Diamond_price_prediction.pdf](https://github.com/rvarsha21/Diamond-price-prediction/blob/33957f9354cd207af73b2e1701b0dea742a88c0f/Diamond_price_prediction.pdf))*  |
+| **Project Presentation**          | *[Diamond_price_prediction.pdf](https://github.com/rvarsha21/Diamond-price-prediction/blob/33957f9354cd207af73b2e1701b0dea742a88c0f/Diamond_price_prediction.pdf)*  |
 | **Full Code (Jupyter Notebooks)** | *[Diamond_price_prediction.ipynb](https://github.com/rvarsha21/Diamond-price-prediction/blob/33957f9354cd207af73b2e1701b0dea742a88c0f/Diamond_price_prediction.ipynb)* |
