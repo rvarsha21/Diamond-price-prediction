@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on predicting the price of round-cut diamonds using machine learning. By analyzing **53,940 diamonds** with physical, qualitative, and engineered features, the goal is to improve pricing transparency for buyers, jewelers, and online marketplaces.
 
@@ -20,7 +20,7 @@ The system compares multiple models, identifies key price drivers, and demonstra
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Predict diamond prices using physical and qualitative attributes
 * Compare the performance of linear vs. ensemble models
@@ -29,7 +29,7 @@ The system compares multiple models, identifies key price drivers, and demonstra
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Diamonds Dataset (53,940 samples)**
 Includes the following features:
@@ -45,7 +45,7 @@ Includes the following features:
 
 ---
 
-## 🧪 Feature Engineering
+## Feature Engineering
 
 * Converted cut, color, clarity into **numeric rankings**
 * Created **volume** = `x × y × z` to capture full diamond size
@@ -58,7 +58,7 @@ Includes the following features:
 
 ---
 
-## 🤖 Modeling Approach
+## Modeling Approach
 
 * **Multiple Linear Regression**
 * **Grow–Prune Decision Tree**
@@ -68,7 +68,7 @@ Includes the following features:
 
 ---
 
-## 🏆 Results & Insights
+## Results & Insights
 
 * **Random Forest performed best**:
 
@@ -86,7 +86,7 @@ Includes the following features:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 **Consumers:**
 
@@ -102,7 +102,7 @@ Includes the following features:
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | Resource                          | Link                           |
 | --------------------------------- | ------------------------------ |
